@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\FirstGame\FirstGame\bin\x64\Release2\FirstGame.exe.config
+C:\Users\Максим\source\repos\FirstGame\FirstGame\bin\x64\Release2\FirstGame.exe
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\Interop.MediaPlayer.dll
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\Interop.WMPLib.dll
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.csproj.ResolveComReference.cache
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.Form1.resources
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.Properties.Resources.resources
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\FirstGame\FirstGame\obj\x64\Release2\FirstGame.exe
